@@ -14,7 +14,7 @@ CVACNN leverages the Chan-Vese model's capacity for unsupervised image segmentat
 ## Paper Reference
 If you use this code for your research, please cite the following paper:
 
-**[Your Paper Title]**
+**Chan-Vese Attention U-Net: An attention mechanism for robust segmentation**
 
 > Authors: Nicolas Makaroff, Laurent D. Cohen  
 > Conference/Journal: International Conference on Geometric Science of Information
